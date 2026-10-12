@@ -9,3 +9,5 @@ console.log(valueInNumber);
 
 let surya = Boolean(score)
 console.log(surya)
+
+console.log(aditya)
